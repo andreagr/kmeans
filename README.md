@@ -7,8 +7,8 @@ This repo contains a simple implementation of the K-Means algorithm in Python
 I have used the following libraries to perform the computation and plotting the result
 
 ```
-import numpy as np
-import matplotlib.pyplot as plt
+numpy
+matplotlib.pyplot
 ```
 
 ### Run the code
